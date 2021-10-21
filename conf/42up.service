@@ -1,0 +1,15 @@
+[Unit]
+Description = 42up
+After = systemd-user-sessions.service network.target sound.target
+
+[Service]
+User = pi
+Group = pi
+Type = simple
+ExecStart = bash -c 'cd /home/pi/42up/ && bash ./server.sh'
+Restart = always
+RestartSec = 15
+Environment=PORT=9999
+
+[Install]
+WantedBy = multi-user.target
