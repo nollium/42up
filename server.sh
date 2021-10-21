@@ -1,5 +1,10 @@
 #!/usr/bin/bash
 
+if ! [ -v PORT ];then
+        PORT=8080
+fi
+
+echo Server running on port "$PORT"
 while true;
         do
 
@@ -13,9 +18,10 @@ OUTPUT=$(printf 'HTTP/1.1 200 OK\r\n\r\n
 <PRE>
 %s
 </PRE>
+<footer> backend in bash btw </footer>
 </body>
 </html>' "$CONTENT")
-
-        echo "$OUTPUT" | nc -w 1 -l 8080
+        echo CONTENT READY: "$CONTENT"
+        echo "$OUTPUT" | nc -w 1 -l "$PORT"
 done
 
