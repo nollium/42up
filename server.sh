@@ -23,8 +23,7 @@ make_output()
 </head>
 <body style="background-image: url('"'https://cdn.intra.42.fr/coalition/cover/45/federation_background.jpg'"');">
 %s
-<footer><a href="https://github.com/Dirty-No/42up"> backend in bash btw </a> </footer>
-</body>
+<footer style="font-size: 50px"><a style="color: yellow" href="https://github.com/Dirty-No/42up"> backend in bash btw </a> </footer></body>
 </html>' "$CONTENT")
         echo "($(date '+%d/%m/%Y %H:%m:%S'))" "
 ------------------------------------------------------------------------------------
@@ -33,6 +32,7 @@ $CONTENT" "
         echo "$OUTPUT" > /tmp/.bash_http_server_content
 }
 
+echo Loading... 
 make_output
 echo Server running on port "$PORT"
 while true;

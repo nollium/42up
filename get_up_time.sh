@@ -38,7 +38,7 @@ my_date()
 	#DD/MM/YYYY HH:MM
 	date +"%d/%m/%Y %H:%M"
 }
-
+#<a style="text-decoration: none;" href="https://github.com/Dirty-No/42up"> <pre style="color:#80ff00;font-size: 30px">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre> </a>
 mkdir -p up down
 for url in $http_urls;do
 	domain_name=$(echo $url | cut -d/ -f3)
@@ -55,7 +55,7 @@ for url in $http_urls;do
 			my_date > up/$domain_name
 		fi
 		last_date=$(cat up/$domain_name)
-		printf '<pre style="color:#80ff00">[%s] %30s is %-4s since %s</pre>\r\n' "OK" "$domain_name" "up" "$last_date" 
+		printf '<a style="text-decoration: none;" href="%s"> <pre style="color:#80ff00;font-size: 30px">[%s] %30s is %-4s since %s</pre></a>\r\n' "$url" "OK" "$domain_name" "up" "$last_date" 
 	else
 		rm -f up/$domain_name
 		#if down/domain_name doesn't exist
@@ -63,6 +63,6 @@ for url in $http_urls;do
 			my_date > down/$domain_name
 		fi
 		last_date=$(cat down/$domain_name)
-		printf '<pre style="color:red">[%s] %30s is %-4s since %s  /!\\ [%s] /!\\ </pre>\r\n' "KO" "$domain_name" "down" "$last_date" "$status_code"
+		printf '<a style="text-decoration: none;" href="%s"> <pre style="color:red;font-size: 30px">[%s] %30s is %-4s since %s  /!\\ [%s] /!\\ </pre></a>\r\n' "$url" "KO" "$domain_name" "down" "$last_date" "$status_code"
 	fi
 done
