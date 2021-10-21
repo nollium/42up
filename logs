@@ -1879,3 +1879,1323 @@
 [KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
 [OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
 ------------------------------------------------------------------------------------
+(21/10/2021 23:10:04) 
+------------------------------------------------------------------------------------
+<p style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</p>
+<p style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</p>
+<p style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</p>
+<p style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</p>
+<p style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </p>
+<p style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</p>
+<p style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </p>
+<p style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</p> 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:06) 
+------------------------------------------------------------------------------------
+<p style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</p>
+<p style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</p>
+<p style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</p>
+<p style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</p>
+<p style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </p>
+<p style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</p>
+<p style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </p>
+<p style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</p> 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:19) 
+------------------------------------------------------------------------------------
+<p style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</p>
+<p style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</p>
+<p style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</p>
+<p style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</p>
+<p style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </p>
+<p style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</p>
+<p style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </p>
+<p style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</p> 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:21) 
+------------------------------------------------------------------------------------
+<p style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</p>
+<p style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</p>
+<p style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</p>
+<p style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</p>
+<p style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </p>
+<p style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</p>
+<p style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </p>
+<p style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</p> 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:48) 
+------------------------------------------------------------------------------------
+<p style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</p>
+<p style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</p>
+<p style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</p>
+<p style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</p>
+<p style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </p>
+<p style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</p>
+<p style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </p>
+<p style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</p> 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:50) 
+------------------------------------------------------------------------------------
+<p style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</p>
+<p style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</p>
+<p style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</p>
+<p style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</p>
+<p style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </p>
+<p style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</p>
+<p style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </p>
+<p style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</p> 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:51) 
+------------------------------------------------------------------------------------
+<p style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</p>
+<p style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</p>
+<p style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</p>
+<p style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</p>
+<p style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </p>
+<p style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</p>
+<p style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </p>
+<p style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</p> 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:52) 
+------------------------------------------------------------------------------------
+<p style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</p>
+<p style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</p>
+<p style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</p>
+<p style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</p>
+<p style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </p>
+<p style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</p>
+<p style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </p>
+<p style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</p> 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:54) 
+------------------------------------------------------------------------------------
+<p style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</p>
+<p style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</p>
+<p style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</p>
+<p style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</p>
+<p style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</p>
+<p style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</p>
+<p style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </p>
+<p style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </p>
+<p style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</p>
+<p style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</p>
+<p style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </p>
+<p style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</p> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:31) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:34) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:34) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:36) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:36) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:40) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:41) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:42) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:43) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:46) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:48) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:07) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:08) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK] <                  www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                         42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <           profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <         elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK] <          projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK] <         companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK] <               api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <              meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK] <              shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK] <            signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK] <               cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <              admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <      steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <          nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <            tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                     noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK] <                raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                   forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                  alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                    init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK] <                     stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK] <             42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:19) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:19) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:20) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:23) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:25) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:27) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:29) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:31) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:37) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:37) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 21/10/2021 22:58</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:46) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                      stud42.fr is down since 22/10/2021 00:03  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:18) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 22/10/2021 00:10</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 22/10/2021 00:07</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:47) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 22/10/2021 00:10</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 22/10/2021 00:07</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:49) 
+------------------------------------------------------------------------------------
+<pre style="color:green">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]          elearning.intra.42.fr is up   since 22/10/2021 00:10</pre>
+<pre style="color:green">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:green">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:green">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:green">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:green">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:green">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:green">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:green">[OK]                      stud42.fr is up   since 22/10/2021 00:07</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:green">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:40) 
+------------------------------------------------------------------------------------
+<pre style="color:#80ff00">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:#80ff00">[OK]          elearning.intra.42.fr is up   since 22/10/2021 00:10</pre>
+<pre style="color:#80ff00">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:#80ff00">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:#80ff00">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:#80ff00">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:#80ff00">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:#80ff00">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:#80ff00">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:#80ff00">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:#80ff00">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                      stud42.fr is up   since 22/10/2021 00:07</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:#80ff00">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:43) 
+------------------------------------------------------------------------------------
+<pre style="color:#80ff00">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:#80ff00">[OK]          elearning.intra.42.fr is up   since 22/10/2021 00:10</pre>
+<pre style="color:#80ff00">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:#80ff00">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:#80ff00">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:#80ff00">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:#80ff00">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:#80ff00">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:#80ff00">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:#80ff00">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:#80ff00">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                      stud42.fr is up   since 22/10/2021 00:07</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:#80ff00">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:58) 
+------------------------------------------------------------------------------------
+<pre style="color:#80ff00">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:#80ff00">[OK]          elearning.intra.42.fr is up   since 22/10/2021 00:10</pre>
+<pre style="color:#80ff00">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:#80ff00">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:#80ff00">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:#80ff00">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:#80ff00">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:#80ff00">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:#80ff00">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:#80ff00">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:#80ff00">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                      stud42.fr is up   since 22/10/2021 00:07</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:#80ff00">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------
+(22/10/2021 00:10:59) 
+------------------------------------------------------------------------------------
+<pre style="color:#80ff00">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                          42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:#80ff00">[OK]          elearning.intra.42.fr is up   since 22/10/2021 00:10</pre>
+<pre style="color:#80ff00">[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52</pre>
+<pre style="color:#80ff00">[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57</pre>
+<pre style="color:#80ff00">[OK]                api.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:#80ff00">[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56</pre>
+<pre style="color:#80ff00">[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29</pre>
+<pre style="color:#80ff00">[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55</pre>
+<pre style="color:#80ff00">[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                      adm.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]               admissions.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ </pre>
+<pre style="color:red">[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:red">[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:#80ff00">[OK]                      noc.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                   alumni.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:red">[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ </pre>
+<pre style="color:#80ff00">[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                    forum.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                      www.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                   alpine.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                     init.42.fr is up   since 20/10/2021 11:35</pre>
+<pre style="color:#80ff00">[OK]                      stud42.fr is up   since 22/10/2021 00:07</pre>
+<pre style="color:red">[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ </pre>
+<pre style="color:#80ff00">[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35</pre> 
+------------------------------------------------------------------------------------

@@ -55,7 +55,7 @@ for url in $http_urls;do
 			my_date > up/$domain_name
 		fi
 		last_date=$(cat up/$domain_name)
-		printf '<pre style="color:#80ff00">[%s] %30s is %-4s since %s</pre>\r\n' "OK" "$domain_name" "up" "$last_date" 
+		printf "[%s] %30s is %-4s since %s\n" "OK" "$domain_name" "up" "$last_date" 
 	else
 		rm -f up/$domain_name
 		#if down/domain_name doesn't exist
@@ -63,6 +63,6 @@ for url in $http_urls;do
 			my_date > down/$domain_name
 		fi
 		last_date=$(cat down/$domain_name)
-		printf '<pre style="color:red">[%s] %30s is %-4s since %s  /!\\ [%s] /!\\ </pre>\r\n' "KO" "$domain_name" "down" "$last_date" "$status_code"
+		printf "[%s] %30s is %-4s since %s  /!\\ [%s] /!\\ \n" "KO" "$domain_name" "down" "$last_date" "$status_code"
 	fi
 done

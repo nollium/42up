@@ -21,11 +21,9 @@ make_output()
 <head>
 <title>intra.42.fr uptime</title>
 </head>
-<body>
-<PRE>
+<body style="background-image: url('"'https://cdn.intra.42.fr/coalition/cover/45/federation_background.jpg'"');">
 %s
-</PRE>
-<footer><a href="https://github.com/Dirty-No/is_intra.42.fr_up"> backend in bash btw </a> </footer>
+<footer><a href="https://github.com/Dirty-No/42up"> backend in bash btw </a> </footer>
 </body>
 </html>' "$CONTENT")
         echo "($(date '+%d/%m/%Y %H:%m:%S'))" "
@@ -35,10 +33,11 @@ $CONTENT" "
         echo "$OUTPUT" > /tmp/.bash_http_server_content
 }
 
+make_output
 echo Server running on port "$PORT"
 while true;
         do
-        make_output &
         nc -w 1 -l "$PORT" < /tmp/.bash_http_server_content
+        make_output &
 done
 
