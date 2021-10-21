@@ -42,7 +42,7 @@ my_date()
 mkdir -p up down
 for url in $http_urls;do
 	domain_name=$(echo $url | cut -d/ -f3)
-	status_code=$(curl -m 2 -L -s -b cookies.txt -I "$url" -o /dev/null -w "%{http_code}")
+	status_code=$(curl -m 4 -L -s -b cookies.txt -I "$url" -o /dev/null -w "%{http_code}")
 	#if request returned an error
 	ret=$?
 	if [ "$status_code" = 000 ];then

@@ -196,3 +196,1686 @@
 [KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
 [OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
 ------------------------------------------------------------------------------------
+(21/10/2021 23:10:44) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[KO]          elearning.intra.42.fr is down since 21/10/2021 22:32  /!\ [timeout] /!\ 
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[KO]                api.intra.42.fr is down since 21/10/2021 23:11  /!\ [timeout] /!\ 
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 22:57
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:17) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[KO]          elearning.intra.42.fr is down since 21/10/2021 22:32  /!\ [timeout] /!\ 
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[KO]               shop.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:19) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[KO]                api.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:20) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[KO]                api.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:22) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[KO]                api.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[KO]               shop.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:22) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:23) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:25) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[KO]               shop.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:27) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:29) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:31) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[KO]               shop.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:33) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:34) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:39) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[KO]               shop.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:40) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[KO]               shop.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:43) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:45) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:49) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[KO]               shop.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:51) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:52) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:54) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[KO]               shop.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:55) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:56) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:00) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:28
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:02) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[KO]               shop.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:03) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[KO]               shop.intra.42.fr is down since 21/10/2021 23:28  /!\ [timeout] /!\ 
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:05) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:31) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:32) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:28
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:35) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[KO]                api.intra.42.fr is down since 21/10/2021 23:29  /!\ [timeout] /!\ 
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:37) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[KO]               shop.intra.42.fr is down since 21/10/2021 23:29  /!\ [timeout] /!\ 
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:39) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:39) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[KO]               shop.intra.42.fr is down since 21/10/2021 23:29  /!\ [timeout] /!\ 
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:47) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:49) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:50) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:51) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:54) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:54) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:04) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:06) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:06) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:08) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:10) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:11) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:12) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:14) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:20) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:22) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:23) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
+(21/10/2021 23:10:24) 
+------------------------------------------------------------------------------------
+[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35
+[OK]                          42.fr is up   since 20/10/2021 11:35
+[OK]            profile.intra.42.fr is up   since 21/10/2021 22:55
+[OK]          elearning.intra.42.fr is up   since 21/10/2021 23:28
+[OK]           projects.intra.42.fr is up   since 21/10/2021 22:52
+[OK]          companies.intra.42.fr is up   since 21/10/2021 22:57
+[OK]                api.intra.42.fr is up   since 21/10/2021 23:29
+[OK]               meta.intra.42.fr is up   since 21/10/2021 22:56
+[OK]               shop.intra.42.fr is up   since 21/10/2021 23:29
+[OK]             signin.intra.42.fr is up   since 21/10/2021 22:55
+[OK]                cdn.intra.42.fr is up   since 20/10/2021 11:35
+[OK]                      adm.42.fr is up   since 20/10/2021 11:35
+[OK]               admissions.42.fr is up   since 20/10/2021 11:35
+[OK]       steakoverflow.42paris.fr is up   since 20/10/2021 11:35
+[OK]           nextcloud.42paris.fr is up   since 20/10/2021 11:35
+[OK]             tuteurs.42paris.fr is up   since 20/10/2021 11:35
+[KO]                 voxotron.42.fr is down since 20/10/2021 11:35  /!\ [502] /!\ 
+[KO]            is.bounced.by.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[KO]                        1.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                      noc.42.fr is up   since 20/10/2021 11:35
+[OK]                   alumni.42.fr is up   since 20/10/2021 11:35
+[KO]                  studios.42.fr is down since 20/10/2021 11:35  /!\ [timeout] /!\ 
+[OK]                 raspbian.42.fr is up   since 20/10/2021 11:35
+[OK]                    forum.42.fr is up   since 20/10/2021 11:35
+[OK]                      www.42.fr is up   since 20/10/2021 11:35
+[OK]                   alpine.42.fr is up   since 20/10/2021 11:35
+[OK]                     init.42.fr is up   since 20/10/2021 11:35
+[OK]                      stud42.fr is up   since 21/10/2021 22:58
+[KO]                       cv.42.fr is down since 20/10/2021 11:35  /!\ [403] /!\ 
+[OK]              42born2peer.42.fr is up   since 20/10/2021 11:35 
+------------------------------------------------------------------------------------
