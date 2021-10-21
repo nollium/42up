@@ -5,16 +5,18 @@ if ! [ -v PORT ];then
 fi
 
 export LAST_CHECK_TIME="$(date +%s)"
-
+DELAY=2
+if [ -v PROD ];then
+        DELAY=10
+fi
 make_output()
 {
         CURRENT_TIME="$(date +%s)"
         #if (CURRENT_TIME - LAST_CHECK_TIME) > 2
 
-        if [ -f /tmp/.bash_http_server_content ] && [ "$(($CURRENT_TIME - $LAST_CHECK_TIME))" -lt 2 ];then
+        if [ -f /tmp/.bash_http_server_content ] && [ "$(($CURRENT_TIME - $LAST_CHECK_TIME))" -lt "$DELAY" ];then
                 return 0
         fi
-        LAST_CHECK_TIME="$CURRENT_TIME"
         CONTENT=$(./get_up_time.sh)
         OUTPUT=$(printf 'HTTP/1.1 200 OK\r\n\r\n
 <html>
@@ -30,6 +32,7 @@ make_output()
 $CONTENT" "
 ------------------------------------------------------------------------------------" | tee -a logs
         echo "$OUTPUT" > /tmp/.bash_http_server_content
+        LAST_CHECK_TIME="$CURRENT_TIME"
 }
 
 echo Loading... 

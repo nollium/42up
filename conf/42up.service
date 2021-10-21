@@ -10,6 +10,7 @@ ExecStart = bash -c 'cd /home/pi/42up/ && bash ./server.sh'
 Restart = always
 RestartSec = 15
 Environment=PORT=9999
+Environment=PROD=YES
 
 [Install]
 WantedBy = multi-user.target
