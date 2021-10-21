@@ -1,2 +1,2 @@
-# is_intra.42.fr_up
-webapp that gives intra.42.fr's uptime
+#42up
+http app that gives intra.42.fr's uptime
