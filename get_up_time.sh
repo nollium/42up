@@ -63,6 +63,6 @@ for url in $http_urls;do
 			my_date > down/$domain_name
 		fi
 		last_date=$(cat down/$domain_name)
-		printf '<a style="text-decoration: none;" href="%s"> <pre style="color:red;font-size: 30px">[%s] %30s is %-4s since %s  /!\\ [%s] /!\\ </pre></a>\r\n' "$url" "KO" "$domain_name" "down" "$last_date" "$status_code"
+		printf '<a style="text-decoration: none;" href="%s"> <pre style="color:red;font-size: 30px">[%s] %30s is %-4s since %s  [%s]  </pre></a>\r\n' "$url" "KO" "$domain_name" "down" "$last_date" "$status_code"
 	fi
 done
