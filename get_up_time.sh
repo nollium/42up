@@ -36,7 +36,7 @@ https://42born2peer.42.fr/users/sign_in
 my_date()
 {
 	#DD/MM/YYYY HH:MM
-	date +"%d/%m/%Y %H:%M"
+	date +%s
 }
 #<a style="text-decoration: none;" href="https://github.com/Dirty-No/42up"> <pre style="color:#80ff00;font-size: 30px">[OK]                   www-lb.42.fr is up   since 20/10/2021 11:35</pre> </a>
 mkdir -p up down
@@ -52,9 +52,16 @@ for url in $http_urls;do
 		rm -f down/$domain_name
 		#if up/domain_name doesn't exist
 		if [ ! -f up/$domain_name ]; then
-			my_date > up/$domain_name
+			my_date > "up/$domain_name"
 		fi
-		last_date=$(cat up/$domain_name)
+		last_stamp=$(cat up/$domain_name)
+		minutes="$(( ( $(date +%s) - $last_stamp ) % 3600 / 60 ))m"
+		days="$(( ( $(date +%s) - $last_stamp ) / 86400 ))d"
+		hours="$(( ( $(date +%s) - $last_stamp ) % 86400 / 3600 ))h"
+		if [ $minutes = 0m ]; then minutes="  " ; fi
+		if [ $days = 0d ]; then days="  " ; fi
+		if [ $hours = 0h ]; then hours="  " ; fi
+		last_date="$days $hours $minutes ($(date +"%d/%m/%Y %H:%M" -d @$last_stamp))"
 		printf '<a style="text-decoration: none;" href="%s"> <pre style="color:#80ff00;font-size: 30px">[%s] %30s is %-4s since %s</pre></a>\r\n' "$url" "OK" "$domain_name" "up" "$last_date" 
 	else
 		rm -f up/$domain_name
@@ -62,7 +69,13 @@ for url in $http_urls;do
 		if [ ! -f down/$domain_name ]; then
 			my_date > down/$domain_name
 		fi
-		last_date=$(cat down/$domain_name)
+		last_stamp=$(cat down/$domain_name)
+		minutes="$(( ( $(date +%s) - $last_stamp ) % 3600 / 60 ))m"
+		days="$(( ( $(date +%s) - $last_stamp ) / 86400 ))d"
+		hours="$(( ( $(date +%s) - $last_stamp ) % 86400 / 3600 ))h"
+		if [ $days = 0d ]; then days="  " ; fi
+		if [ $hours = 0h ]; then hours="  " ; fi
+		last_date="$days $hours $minutes ($(date +"%d/%m/%Y %H:%M" -d @$last_stamp))"
 		printf '<a style="text-decoration: none;" href="%s"> <pre style="color:red;font-size: 30px">[%s] %30s is %-4s since %s  [%s]  </pre></a>\r\n' "$url" "KO" "$domain_name" "down" "$last_date" "$status_code"
 	fi
 done

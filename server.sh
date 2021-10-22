@@ -12,9 +12,7 @@ fi
 make_output()
 {
         CURRENT_TIME="$(date +%s)"
-        #if (CURRENT_TIME - LAST_CHECK_TIME) > 2
-
-        if [ -f /tmp/.bash_http_server_content ] && [ "$(($CURRENT_TIME - $LAST_CHECK_TIME))" -lt "$DELAY" ];then
+        if [ -f /tmp/.bashttp_content ] && [ "$(($CURRENT_TIME - $LAST_CHECK_TIME))" -lt "$DELAY" ];then
                 return 0
         fi
         CONTENT=$(./get_up_time.sh)
@@ -30,8 +28,8 @@ make_output()
         echo "($(date '+%d/%m/%Y %H:%m:%S'))" "
 ------------------------------------------------------------------------------------
 $CONTENT" "
-------------------------------------------------------------------------------------" | tee -a logs
-        echo "$OUTPUT" > /tmp/.bash_http_server_content
+------------------------------------------------------------------------------------" | tee -a /tmp/.bashttp_logs
+        echo "$OUTPUT" > /tmp/.bashttp_content
         LAST_CHECK_TIME="$CURRENT_TIME"
 }
 
@@ -40,7 +38,7 @@ make_output
 echo Server running on port "$PORT"
 while true;
         do
-        nc -w 1 -l "$PORT" < /tmp/.bash_http_server_content
+        nc -w 1 -l "$PORT" < /tmp/.bashttp_content
         make_output &
 done
 
