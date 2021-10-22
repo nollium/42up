@@ -58,7 +58,6 @@ for url in $http_urls;do
 		minutes="$(( ( $(date +%s) - $last_stamp ) % 3600 / 60 ))m"
 		days="$(( ( $(date +%s) - $last_stamp ) / 86400 ))d"
 		hours="$(( ( $(date +%s) - $last_stamp ) % 86400 / 3600 ))h"
-		if [ $minutes = 0m ]; then minutes="  " ; fi
 		if [ $days = 0d ]; then days="  " ; fi
 		if [ $hours = 0h ]; then hours="  " ; fi
 		last_date="$days $hours $minutes ($(date +"%d/%m/%Y %H:%M" -d @$last_stamp))"
