@@ -21,7 +21,12 @@ make_output()
 <head>
 <title>intra.42.fr uptime</title>
 </head>
-<body style="background-image: url('"'https://cdn.intra.42.fr/coalition/cover/45/federation_background.jpg'"');">
+<body style="
+background-image: url('"'https://cdn.intra.42.fr/coalition/cover/45/federation_background.jpg'"');
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover;
+">
 %s
 <footer style="font-size: 50px"><a style="color: yellow" href="https://github.com/Dirty-No/42up"> backend in bash btw </a> </footer></body>
 </html>' "$CONTENT")
